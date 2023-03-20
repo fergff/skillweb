@@ -2,3 +2,14 @@
     background-color:#e5fae9 ;
     
 }
+
+.bg-verde2{
+    background-color: #27a744;
+}
+.btn-verde{
+background-color: #27a844;
+display: flex;
+border: none;
+text-align: center;
+}
+
