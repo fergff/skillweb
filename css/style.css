@@ -6,10 +6,27 @@
 .bg-verde2{
     background-color: #27a744;
 }
+
+.p80{
+    width:80%;
+}
 .btn-verde{
 background-color: #27a844;
 display: flex;
 border: none;
-text-align: center;
+}
+.inisesion{
+    background-color: #f5f9fa;
+    padding: 20px;
+    border-radius: 6px;
+}
+.registro{
+    background-color: #f5f9fa;
+    padding-top: 12px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.p-lr{
+    
 }
 
