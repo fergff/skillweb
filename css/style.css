@@ -2,13 +2,19 @@
     background-color:#e5fae9 ;
     
 }
-
+a{
+    text-decoration: none;
+}
 .bg-verde2{
     background-color: #27a744;
 }
 
-.p80{
-    width:80%;
+.bg-verde3{
+    background-color: #d8eddc;
+}
+
+.p70{
+    width:70%;
 }
 .btn-verde{
 background-color: #27a844;
@@ -23,10 +29,15 @@ border: none;
 .registro{
     background-color: #f5f9fa;
     padding-top: 12px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 6px;
+    padding-bottom: 10px;
 }
 .p-lr{
     
 }
 
+.bg-lightgray {
+    background-color: lightgray;
+}
